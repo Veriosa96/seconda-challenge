@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <link rel="stylesheet" href="master.css">
+    <title>Presentazione</title>
+</head>
+<body>
+    <H1 style="color: rgb(249, 78, 5);">CIAO! QUESTO E' IL MIO PRIMO PROGETTO</H1>
+<p style="color: rgb(249, 78, 5);">Salve a tutti, il mio nome è Saverio ed ho appena iniziato questo fantastico percorso.</p> <br>
+<img src="immagine.jpg.JPG" alt=""
+    style="width: 150px;">
+    <p style="color: rgb(249, 78, 5);"><i>Le cose che mi piace fare sono tante! alcune di queste sono:</i></p>
+    <ul>
+        <li style="color: rgb(249, 78, 5);">Fare Crossfit;</li>
+        <li style="color: rgb(249, 78, 5)">Giocare ai videogame;</li>
+        <li style="color: rgb(249, 78, 5)">Mi piace il karate;</li>
+        <li style="color: rgb(249, 78, 5)">Viaggiare;</li>
+        </ul>
+        <p style="color: rgb(249, 78, 5)">Oltre a queste ci sono tantissime altre cose che mi piace e mi piacerebbe fare!</p>
+        <br><br><br>
+        <h4 style="color: rgb(249, 78, 5)">I miei contatti sono i seguenti:</h4>
+        <ol>
+            <li style="color: rgb(249, 78, 5);">saveriocaracappa@gmail.com</li>
+            <li style="color: rgb(249, 78, 5);">3274769152</li>
+            <li style="color: rgb(249, 78, 5);">Instagram: sav.caracappa</li>
+        </ol>
+</body>
+</html>
+
+
+
+body{
+    background: url(https://img.freepik.com/free-vector/colorful-watercolor-rainbow-background_125540-151.jpg?w=996&t=st=1665741109~exp=1665741709~hmac=f8d36b440fa570dcc5a836f95e0c0b9908d1fc975814dde5a47bb9c0cf835234)
+}
+body{
+    background-size:cover;
+}
+h1{
+    background:rgba(245, 221, 10, 0.6);
+}
+p{
+    background:rgba(245, 221, 10, 0.6);
+}
+ul{
+    background:rgba(245, 221, 10, 0.6);
+}
+h4{
+    background:rgba(245, 221, 10, 0.6);
+}
+ol{
+    background:rgba(245, 221, 10, 0.6);
+}
