@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>ASCOLTA LA TUA MUSICA PREFERITA!</title>
+</head>
+<body>
+    <H1>REGISTRAZIONE</H1>
+    <form onsubmit="alert('form inviato')">
+    <div>
+        <input type="Nome" placeholder="Il Tuo Nome">
+    </div>
+    <div>
+        <input type="Cognome" placeholder="Il Tuo Cognome">
+    </div>
+    <div>
+        <input type="Email" placeholder="La Tua Mail">
+    </div>
+    <div>
+        <input type="Password" placeholder="La Tua Password">
+    </div>
+    <div>
+        <input type="date" placeholder="La Tua Data di Nascita">
+    </div>
+    <div>
+        <input type="number" placeholder="Il Tuo Numero di Telefono">
+    </div>
+    <div>
+        <ul>
+            <li>Rock<input type="checkbox"></li>
+            <li>Techno<input type="checkbox"></li>
+            <li>Classica <input type="checkbox"></li>
+            <li>Pop <input type="checkbox"> </li>
+        </ul>
+    </div>
+    <div>
+        Termini di condizioni e privacy<input type="radio">
+    </div>
+    <div>
+        <button type="submit">INVIA FORM</button>
+    </div>
+</form>
+</body>
+</html>
